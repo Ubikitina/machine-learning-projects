@@ -9,8 +9,7 @@ El objetivo de este repositorio es almacenar y organizar los trabajos prácticos
 - **Actividad 1**: Implementación de **Naive Bayes**, **K-NN** y **Árboles de Decisión**.
 - **Actividad 2**: Diseño y entrenamiento de **Redes Neuronales**.
 - **Actividad 3**: Aplicación de **Máquinas de Vectores Soporte (SVM)**.
-
-A medida que avance el curso, se podrán añadir más carpetas o recursos relacionados con las actividades de la asignatura.
+- **Actividad 4**: Técnicas de reducción de dimensionalidad **PCA** y **LDA**.
 
 ## Requisitos
 
