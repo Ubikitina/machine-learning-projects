@@ -1,6 +1,6 @@
 # Machine Learning Course Projects
 
-This repository contains the practical assignments for the **Machine Learning I** (Aprendizaje Automático I) course, part of the **Master's Degree in Data Science & Engineering** at **UNED**.
+This repository contains the practical assignments developed during the 2024-2025 academic year for the **Machine Learning I** (Aprendizaje Automático I) course, part of the **Master's Degree in Data Science & Engineering** at **UNED**.
 
 The purpose of this repository is to store and document the projects developed during the course, using popular machine learning tools and frameworks like **scikit-learn**, **Keras**, and **TensorFlow**.
 
@@ -70,3 +70,29 @@ The projects are developed using **Jupyter Notebooks** (`.ipynb`) and require a 
 ## Contributing
 
 Suggestions, improvements, or corrections are highly welcome. Please feel free to open a **pull request**, and I will be glad to review it.
+
+
+## License
+
+This project is released under the terms of the **MIT License**.
+
+The purpose of this license is to allow the free reuse of the code for any purpose, provided that the original copyright notice and the license text are included in any copy or substantial portion of the software.[1] This means that while you can use, modify, and distribute this code, **you have a legal obligation to provide original authorship attribution**.
+
+You can find a complete copy of the license text in the `LICENSE` file in this repository.
+
+
+## Waring on Academic Integrity and Plagiarism
+
+This repository and its contents are published for a dual purpose:
+
+1.  **Educational:** As reference and consultation material for other developers interested in the topics covered.
+2.  **Professional:** As part of my personal portfolio to demonstrate my skills and the projects I have worked on.
+
+
+**⚠️ IMPROPER USE AND CONSEQUENCES:**
+
+The use, copy, or adaptation, in whole or in part, of this work to be submitted as one's own in any course, subject, or academic context—whether at UNED or any other educational institution—constitutes **plagiarism**.
+
+Plagiarism is a **serious offense** against academic integrity, punishable under Universities Academic Disciplinary Regulations and other similar rules. The plagiarism detection tools used by the universities compare student submissions against billions of internet sources, including public GitHub repositories, so any copy will be detected.
+
+By publishing this work under a license that requires attribution, this repository promotes good faith and ethical use of the code. Anyone who ignores the terms of the license and academic regulations to commit fraud does so at their own sole and exclusive risk.
