@@ -76,7 +76,7 @@ Suggestions, improvements, or corrections are highly welcome. Please feel free t
 
 This project is released under the terms of the **MIT License**.
 
-The purpose of this license is to allow the free reuse of the code for any purpose, provided that the original copyright notice and the license text are included in any copy or substantial portion of the software.[1] This means that while you can use, modify, and distribute this code, **you have a legal obligation to provide original authorship attribution**.
+The purpose of this license is to allow the free reuse of the code for any purpose, provided that the original copyright notice and the license text are included in any copy or substantial portion of the software. This means that while you can use, modify, and distribute this code, **you have a legal obligation to provide original authorship attribution**.
 
 You can find a complete copy of the license text in the `LICENSE` file in this repository.
 
