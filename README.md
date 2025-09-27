@@ -81,7 +81,7 @@ The purpose of this license is to allow the free reuse of the code for any purpo
 You can find a complete copy of the license text in the `LICENSE` file in this repository.
 
 
-## Waring on Academic Integrity and Plagiarism
+## Warning on Academic Integrity and Plagiarism
 
 This repository and its contents are published for a dual purpose:
 
